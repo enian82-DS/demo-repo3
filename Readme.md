@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-This change is made in develop
-=======
-Demo 3
-
+Master has some changes...
+master has some changes....
+master has some changes..
